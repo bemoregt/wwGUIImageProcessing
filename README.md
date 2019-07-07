@@ -1,7 +1,7 @@
 # ofxGUIImageProcessin
 ImageProcessing using ofxButton, ofxLabel, ofxIntSlider, ofxVectorSlider, ofVec2f, etc.
 
-![gui processing]( https://github.com/bemoregt/ofxDragAugmentation/blob/master/sample.png "ROIGraph2")
+![gui processing]( https://github.com/bemoregt/ofxGUIImageProcessing/blob/master/aaa.png "GUIshot")
 - Screenshot
 
 ### Dependency

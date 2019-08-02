@@ -1,4 +1,4 @@
-# ofxGUIImageProcessin
+# wwGUIImageProcessin
 ImageProcessing using ofxButton, ofxLabel, ofxIntSlider, ofxVectorSlider, ofVec2f, etc.
 
 ![gui processing]( https://github.com/bemoregt/ofxGUIImageProcessing/blob/master/aaa.png "GUIshot")
